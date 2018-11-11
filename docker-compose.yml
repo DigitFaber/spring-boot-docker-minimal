@@ -1,6 +1,6 @@
 version: '3'
 services:
   hello-world:
-    image: sdm/hello-world
+    image: sbdm/hello-world
     ports:
       - "8080:8080"
